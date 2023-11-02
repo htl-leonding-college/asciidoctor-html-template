@@ -1,6 +1,6 @@
 = Asciidoctor-Features
 Thomas W. Stütz
-1.0, 2020-03-01
+1.0, {docdate}
 ifndef::sourcedir[:sourcedir: ../src/main/java]
 ifndef::imagesdir[:imagesdir: images]
 ifndef::backend[:backend: html5]
