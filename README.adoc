@@ -16,6 +16,8 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
+image::https://img.shields.io/badge/version-1.0.0-blue[]
+
 == doc-as-code
 
 === Overview
