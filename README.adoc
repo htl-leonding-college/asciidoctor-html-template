@@ -30,6 +30,17 @@ image::/img/adoc-to-html.png[]
 
 === Usage
 
+=== Initial Configuration
+
+* After templating this repo commit and push the demo page
+
+* Set Settings - Pages - Branch: gh-pages - Folder: / (root)
++
+[%collapsible]
+====
+image::/img/permissions-for-asciidoc-2.png[]
+====
+
 ==== Remote Rendering by github-actions
 
 When commiting and pushing the adoc-files into github, they are automatically rendered by github-actions to html in a (new) branch `gh-pages`. All sub-folders with adoc-files are included.

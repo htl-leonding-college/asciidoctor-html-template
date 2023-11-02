@@ -1,5 +1,5 @@
-= Some Slide Stütztest 77
-//:author: C. Aberger, T. Stütz
+= Some Slide
+:author: T. Stütz
 :email: t.stuetz@htl-leonding.ac.at
 :revnumber: 1.0
 :revdate: {docdate}
