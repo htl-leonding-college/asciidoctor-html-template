@@ -30,7 +30,7 @@ image::/img/adoc-to-html.png[]
 
 === Usage
 
-=== Initial Configuration
+==== Initial Configuration
 
 * After templating this repo commit and push the demo page
 
@@ -40,6 +40,20 @@ image::/img/adoc-to-html.png[]
 ====
 image::/img/permissions-for-asciidoc-2.png[]
 ====
+
+==== Accessing the Website(s) for docs
+
+* https://*<github-repo-owner>*.github.io/*<github-repo-name>*
+
+** ie https://htl-leonding.github.io/asciidoctor-slides-testdemo
+
+==== Accessing the Website(s) for slides
+
+* https://*<github-repo-owner>*.github.io/*<github-repo-name>*/demo/*<file-name>*
+
+** ie https://htl-leonding.github.io/asciidoctor-slides-testdemo/slides/demo.html
+
+
 
 ==== Remote Rendering by github-actions
 
