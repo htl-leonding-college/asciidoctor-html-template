@@ -1,7 +1,7 @@
 = Besprechungsprotokoll dd.mm.yyyy
 firstname lastname
 1.0, yyyy-mm-dd: Some notes
-ifndef::imagesdir[:imagesdir: ../images]
+ifndef::imagesdir[:imagesdir: images]
 :icons: font
 //:sectnums:    // Nummerierung der Überschriften / section numbering
 //:toc: left
