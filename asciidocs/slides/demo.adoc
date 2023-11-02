@@ -1,6 +1,6 @@
 = Some Slide
-:author: T. Stütz
-:email: t.stuetz@htl-leonding.ac.at
+:author: firstname lastname
+:email: x.y@htl.at
 :revnumber: 1.0
 :revdate: {docdate}
 :revremark: SLIDEDEMO @ HTL Leonding
