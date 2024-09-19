@@ -7,6 +7,8 @@ ifndef::backend[:backend: html5]
 :icons: font
 :sectnums:    // Nummerierung der Überschriften / section numbering
 :toc: left
+:source-highlighter: rouge
+:docinfo: shared
 
 == Include Source Code
 
