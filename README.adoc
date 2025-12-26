@@ -25,7 +25,7 @@ image::https://img.shields.io/badge/version-1.0.0-blue[]
 The purpose of this template is to convert adoc-Files to html-Files
 These files are divided in html-documents and html-slides. The slides are rendered using https://revealjs.com/[revealjs^].
 
-The convertion of the adoc-files is processed in a docker-container.
+The conversion of the adoc-files is processed in a docker-container.
 
 
 image::/img/adoc-to-html.png[]
